@@ -1,5 +1,5 @@
 ilia_lopatukhin@Ilia-lopatukhin-Y3-Max:~$ export GITHUB_USERNAME=Lopatukhin
-ilia_lopatukhin@Ilia-lopatukhin-Y3-Max:~$ export GITHUB_EMAIL=ilia_lopatukhin.tsapaev@gmail.com
+ilia_lopatukhin@Ilia-lopatukhin-Y3-Max:~$ export GITHUB_EMAIL=thegoldenorder112@gmail.com
 ilia_lopatukhin@Ilia-lopatukhin-Y3-Max:~$ alias edit=nano
 ilia_lopatukhin@Ilia-lopatukhin-Y3-Max:~$ alias gsed=sed
 ilia_lopatukhin@Ilia-lopatukhin-Y3-Max:~$ cd ${GITHUB_USERNAME}/workspace
